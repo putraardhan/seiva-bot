@@ -17,7 +17,7 @@ This project was created for the DoraHacks x Sei Hackathon to increase accessibi
 ## Built for DoraHacks x Sei Hackathon
 This project was developed specifically for the DoraHacks Sei Hackathon and integrates deeply with Sei's on-chain data.
 
-## 🔗 Sei Network Integration
+## Sei Network Integration
 - On-chain wallet tracker using Sei RPC and REST endpoints
 - Fetches live data of trending tokens and ecosystem projects
 - Context-aware project recommendations
@@ -35,7 +35,7 @@ This project was developed specifically for the DoraHacks Sei Hackathon and inte
 - Telegram: [@SeivaBot](https://t.me/sei_vabot)
 - Twitter: [@seiva_assistant](https://x.com/seiva_assistant)
 
-## 🛠 Tech Stack
+## Tech Stack
 - n8n
 - Telegram Bot API
 - OpenAI
