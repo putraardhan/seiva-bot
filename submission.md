@@ -29,7 +29,7 @@ This project aligns with the **AI Agent + Automation track** and **On-Chain Data
 
 ## Links
 
-- GitHub: [your repo link here]
+- GitHub: [(https://github.com/putraardhan/seiva-bot)]
 - Demo Video: [link to video demo]
 - Telegram Bot: [@SeivaBot](https://t.me/sei_vabot)
 - Twitter: [@seiva_assistant](https://x.com/seiva_assistant)
