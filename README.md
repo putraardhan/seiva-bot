@@ -1,31 +1,34 @@
-# Seiva Bot
+# Seiva – Telegram AI Assistant for Sei Network
 
-**Seiva is your personal on-chain assistant for the Sei Network, accessible directly through Telegram.**  
-It helps you track wallet activity, explore projects, and ask anything about the Sei ecosystem—right from your chat.
+**Seiva** is a Telegram bot that provides real-time insights, wallet tracking, and project discovery on the Sei Network.
 
-## Features
+## Built for DoraHacks x Sei Hackathon
+This project was developed specifically for the DoraHacks Sei Hackathon and integrates deeply with Sei's on-chain data.
 
-- **Sei Q&A**: Ask anything about Sei using `/ask` or by sending questions directly.
-- **Wallet Checker**: Send an EVM wallet address to check token balances.
-- **Token Analyzer**: Send a message like `token <0xContractAddress>` to analyze token details.
-
-## How to Use
-
-1. Chat directly with [Seiva Bot on Telegram](https://t.me/sei_vabot).
-2. Use one of the supported commands or just send your question/address.
-3. Get instant, AI-powered responses.
+## 🔗 Sei Network Integration
+- On-chain wallet tracker using Sei RPC and REST endpoints
+- Fetches live data of trending tokens and ecosystem projects
+- Context-aware project recommendations
+- Built with OpenAI & Telegram Bot API via n8n automation
 
 ## Example Commands
-
 - `wallet ballance checker`
-- `token DEGEN 0x...` → analyze token details
+- `token analyzer 0x...` → analyze token details
 - `ask  anything about Sei ecosystem?`
 
-## Folder Structure
+## Demo
+[Watch the demo video here](<URL_TO_YOUR_DEMO_VIDEO>)
 
-```bash
-workflows/
-├── wallet-checker.json
-├── ask-anything.json
-├── token-analyzer.json
-└── help-and-start.json
+## Socials
+- Telegram: [@SeivaBot](https://t.me/sei_vabot)
+- Twitter: [@seiva_assistant](https://x.com/seiva_assistant)
+
+## 🛠 Tech Stack
+- n8n
+- Telegram Bot API
+- OpenAI
+- Sei RPC/REST
+- Hosted on [n8n.cloud](https://n8n.cloud/)
+
+## License
+This project is licensed under the MIT License.
