@@ -1,6 +1,18 @@
 # Seiva – Telegram AI Assistant for Sei Network
 
-**Seiva** is a Telegram bot that provides real-time insights, wallet tracking, and project discovery on the Sei Network.
+## Project Description
+
+**Seiva** is a Telegram-based AI assistant built specifically for the Sei Network.
+
+Seiva helps users:
+- Track wallet activity on Sei (multi-token support)
+- Ask intelligent questions about Sei and receive contextual AI responses
+- Analyze token insights such as price, volume, holders, and change over time
+- Get assistance and guides related to airdrops, staking, and bridging on Sei
+
+The bot is built using n8n, OpenAI API, CoinGecko integration, and Sei RPC endpoints, creating a smooth user experience directly from Telegram.
+
+This project was created for the DoraHacks x Sei Hackathon to increase accessibility, transparency, and usability of the Sei blockchain ecosystem.
 
 ## Built for DoraHacks x Sei Hackathon
 This project was developed specifically for the DoraHacks Sei Hackathon and integrates deeply with Sei's on-chain data.
