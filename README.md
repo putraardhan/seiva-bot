@@ -10,7 +10,7 @@ Seiva helps users:
 - Analyze token insights such as price, volume, holders, and change over time
 - Get assistance and guides related to airdrops, staking, and bridging on Sei
 
-The bot is built using n8n, OpenAI API, CoinGecko integration, and Sei RPC endpoints, creating a smooth user experience directly from Telegram.
+The bot is built using n8n, OpenAI API, DexScreener integration, and Sei RPC endpoints, creating a smooth user experience directly from Telegram.
 
 This project was created for the DoraHacks x Sei Hackathon to increase accessibility, transparency, and usability of the Sei blockchain ecosystem.
 
