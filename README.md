@@ -29,7 +29,7 @@ This project was developed specifically for the DoraHacks Sei Hackathon and inte
 - `ask  anything about Sei ecosystem?`
 
 ## Demo
-[Watch the demo video here](<URL_TO_YOUR_DEMO_VIDEO>)
+[Watch the demo video here](<https://www.youtube.com/watch?v=AK440aOmV64>)
 
 ## Socials
 - Telegram: [@SeivaBot](https://t.me/sei_vabot)
