@@ -27,7 +27,8 @@ This project was developed specifically for the DoraHacks Sei Hackathon and inte
 - Built with OpenAI & Telegram Bot API via n8n automation
 
 ## Folder Structure & Contents
-'''├── workflows/                        # JSON exports of n8n Telegram automation workflows
+'''
+├── workflows/                        # JSON exports of n8n Telegram automation workflows
 │   ├── ask-questions.json            # Handle user Q&A using OpenAI
 │   ├── wallet-checker.json           # Track wallet balances and tokens
 │   ├── token-checker.json            # Analyze token stats (price, holders, etc.)
