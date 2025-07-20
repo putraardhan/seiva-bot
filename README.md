@@ -17,6 +17,9 @@ This project was created for the DoraHacks x Sei Hackathon to increase accessibi
 ## Built for DoraHacks x Sei Hackathon
 This project was developed specifically for the DoraHacks Sei Hackathon and integrates deeply with Sei's on-chain data.
 
+## Demo
+[Watch the demo video here](<https://www.youtube.com/watch?v=AK440aOmV64>)
+
 ## Sei Network Integration
 - On-chain wallet tracker using Sei RPC and REST endpoints
 - Fetches live data of trending tokens and ecosystem projects
@@ -27,9 +30,6 @@ This project was developed specifically for the DoraHacks Sei Hackathon and inte
 - `wallet ballance checker`
 - `token analyzer 0x...` → analyze token details
 - `ask  anything about Sei ecosystem?`
-
-## Demo
-[Watch the demo video here](<https://www.youtube.com/watch?v=AK440aOmV64>)
 
 ## Socials
 - Telegram: [@SeivaBot](https://t.me/sei_vabot)
