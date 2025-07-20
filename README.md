@@ -34,7 +34,7 @@ This project was developed specifically for the DoraHacks Sei Hackathon and inte
 │   ├── token-checker.json            # Analyze token stats (price, holders, etc.)
 │   └── start-and-help.json           # Provides help commands and onboarding
 │
-├── prompts/                          # Predefined system prompts for OpenAI agents
+├── prompts/                            # Predefined system prompts for OpenAI agents
 │   ├── seiva_main_agent.md             # System prompt for main Seiva agent
 │   └── seiva_token_insight_agent.md    # System prompt for token insight agent
 ```
