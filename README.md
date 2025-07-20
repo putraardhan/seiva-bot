@@ -35,7 +35,8 @@ This project was developed specifically for the DoraHacks Sei Hackathon and inte
 │   └── start-and-help.json           # Provides help commands and onboarding
 │
 ├── prompts/                          # Predefined system prompts for OpenAI agents
-│   └── seiva_token_insight_agent.md  # Prompt to guide token analysis assistant
+│   ├── seiva_main_agent.md             # System prompt for main Seiva agent
+│   └── seiva_token_insight_agent.md    # System prompt for token insight agent
 ```
 
 ## Example Commands
