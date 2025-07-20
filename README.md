@@ -27,14 +27,14 @@ This project was developed specifically for the DoraHacks Sei Hackathon and inte
 - Built with OpenAI & Telegram Bot API via n8n automation
 
 ## Folder Structure & Contents
-├── workflows/       # JSON exports of n8n Telegram automation workflows
-│   ├── ask-questions.json        # Handle user Q&A using OpenAI
-│   ├── wallet-checker.json       # Track wallet balances and tokens
-│   ├── token-checker.json        # Analyze token stats (price, holders, etc.)
-│   └── start-and-help.json       # Provides help commands and onboarding
+├── workflows/                        # JSON exports of n8n Telegram automation workflows
+│   ├── ask-questions.json            # Handle user Q&A using OpenAI
+│   ├── wallet-checker.json           # Track wallet balances and tokens
+│   ├── token-checker.json            # Analyze token stats (price, holders, etc.)
+│   └── start-and-help.json           # Provides help commands and onboarding
 │
-├── prompts/         # Predefined system prompts for OpenAI agents
-│   └── seiva_token_insight_agent.md   # Prompt to guide token analysis assistant
+├── prompts/                          # Predefined system prompts for OpenAI agents
+│   └── seiva_token_insight_agent.md  # Prompt to guide token analysis assistant
 
 ## Example Commands
 - `wallet ballance checker`
